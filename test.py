@@ -1,2 +1,2 @@
-print("Learning git 2 step")
+print("Learning git/fuck stupid git")
 
